@@ -1,2 +1,23 @@
-# enntt-release
-to be added 
+## Europarl corpus of native, non-native and trasnalted texts - ENNTT
+
+## [Europarl corpus of native, non-native and translated texts - ENNTT](http://nlp.unibuc.ro/resources/ENNTT.tar.gz)
+- For the experiments in the (forthcoming) paper, we used the dataset available [here](http://nlp.unibuc.ro/resources/LREC2016_experiment.tar.gz).
+- This is a monolingual English corpus of native, non-native and (human) translated texts extracted from the [European Parliament](http://www.statmt.org/europarl/). The translated texts from different source languages represent a subset of the [Haifa Corpus of Translationese](http://arxiv.org/abs/1509.03611). We preserved the same annotation style and included an ID and the EU state that each member of the European Parliament represents.
+- We hope this dataset will facilitate a unified comparative study of translations and language produced by highly fluent non-native speakers, two closely-related phenomena that have only been studied in isolation so far.
+
+## File description:
+-	*.tok files contain tha actual text uttered either in English by natives and non-natives or translated to English from other languages
+-	*.dat files contain the annotations corresponding to each line in the *.tok files.
+
+## Description of annotations:
+-	NAME - speaker's name as it appears in the written session 
+-	LANGUAGE - original language in which the sentence was uttered 
+-	SESSION_ID - the name of the corresponding protocol source file 
+-	SEQ_SPEAKER_ID - sequential number of the speaker within a session 
+
+### Sentences uttered in English are annotated with additional information:
+-	STATE - the EU state represented by the MEP 
+-	MEPID - the ID used by the Europarl website to display the MEPs online images
+
+For more details about this particular dataset, mailto:sergiu.nisioi at gmail com or mailto:ellarabi at csweb dot haifa dot ac dot il
+
