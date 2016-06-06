@@ -1,4 +1,4 @@
-## [Europarl corpus of native, non-native and translated texts - ENNTT](https://github.com/senisioi/enntt-release/releases/tag/v1.0)
+## [Europarl corpus of native, non-native and translated texts - ENNTT](https://github.com/senisioi/enntt-release/releases/latest)
 - Please check the [release](https://github.com/senisioi/enntt-release/releases) section for the latest version, also available at the [Center for Computational Linguistics](http://nlp.unibuc.ro/resources.html)
 - A complete description of this resource is available [here](http://www.lrec-conf.org/proceedings/lrec2016/summaries/902.html): **A Corpus of Native, Non-native and Translated Texts**, LREC, 2016, [PDF](http://www.lrec-conf.org/proceedings/lrec2016/pdf/902_Paper.pdf)
 - For the experiments presented in the ACL 2016 paper, please check the dataset available [here](https://github.com/senisioi/enntt-release/releases/download/v1.2/ACL2016.tar.gz)
