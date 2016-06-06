@@ -1,8 +1,9 @@
 ## [Europarl corpus of native, non-native and translated texts - ENNTT](https://github.com/senisioi/enntt-release/releases/latest)
 - Please check the [release](https://github.com/senisioi/enntt-release/releases) section for the latest version, also available at the [Center for Computational Linguistics](http://nlp.unibuc.ro/resources.html)
 - A complete description of this resource is available [here](http://www.lrec-conf.org/proceedings/lrec2016/summaries/902.html): **A Corpus of Native, Non-native and Translated Texts**, LREC, 2016, [PDF](http://www.lrec-conf.org/proceedings/lrec2016/pdf/902_Paper.pdf)
+- For the raw corpus, please check the dataset available [here](http://nlp.unibuc.ro/resources/ENNTT.tar.gz)
 - For the experiments presented in the ACL 2016 paper, please check the dataset available [here](https://github.com/senisioi/enntt-release/releases/download/v1.2/ACL2016.tar.gz)
-- For the experiments presented in the [LREC 2016](http://www.lrec-conf.org/proceedings/lrec2016/summaries/902.html) paper, please check the dataset available [here](/resources/LREC2016_experiment.tar.gz)
+- For the experiments presented in the [LREC 2016](http://www.lrec-conf.org/proceedings/lrec2016/summaries/902.html) paper, please check the dataset available [here](http://nlp.unibuc.ro/resources/LREC2016_experiment.tar.gz)
 
 ### Short description:
 - This is a monolingual English corpus of native, non-native and (human) translated texts extracted from the [European Parliament](http://www.statmt.org/europarl/). The translated texts from different source languages represent a subset of the [Haifa Corpus of Translationese](http://arxiv.org/abs/1509.03611). We preserved the same annotation style and included an ID and the EU state that each member of the European Parliament represents.
