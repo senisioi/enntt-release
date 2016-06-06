@@ -1,5 +1,5 @@
 ## [Europarl corpus of native, non-native and translated texts - ENNTT](https://github.com/senisioi/enntt-release/releases/tag/v1.0)
-- Please check the release section for the latest version.
+- Please check the [release](https://github.com/senisioi/enntt-release/releases) section for the latest version.
 - The dataset is also available at the [Center for Computational Linguistics](http://nlp.unibuc.ro/resources.html)
 - For the experiments in the paper Nisioi, S., Rabinovich, E., Dinu, L. P., and Wintner, S.: **A Corpus of Native, Non-native and Translated Texts** LREC, 2016, [PDF](http://www.lrec-conf.org/proceedings/lrec2016/summaries/902.html)
 - To reproduce the LREC experiments, use the [this dataset](http://nlp.unibuc.ro/resources/LREC2016_experiment.tar.gz).
